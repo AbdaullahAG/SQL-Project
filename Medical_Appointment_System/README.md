@@ -73,8 +73,7 @@ The database consists of the following tables:
 For questions or suggestions, please contact:
 
 - **Your Name**  
-- Email: your.email@example.com  
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- Email: Abd.moh9999@yahoo.com  
 
 ---
 
