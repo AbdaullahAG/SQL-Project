@@ -33,8 +33,8 @@ A simple SQL-based project that simulates a small **Library Management System**,
 ## 👤 Author
 
 - **Your Name**
-- GitHub: [https://github.com/yourusername](https://github.com/yourusername)
-- LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- GitHub: [https://github.com/yourusername](https://github.com/AbdallahAG)
+- LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/AbdallahAbughallous)
 
 ## 📜 License
 
